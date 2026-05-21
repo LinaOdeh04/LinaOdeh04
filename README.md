@@ -12,13 +12,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,vscode,figma,mssql" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,java,git,vscode,figma,mssql" />
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### 💻 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
