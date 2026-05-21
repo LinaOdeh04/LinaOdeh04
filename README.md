@@ -12,8 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,vscode,figma,sqlserver" />
-  </p>
+<img src="https://skillicons.dev/icons?i=java,cs,dotnet,html,css,git,vscode,figma,sqlserver" />  </p>
 
 ---
 
@@ -21,7 +20,7 @@
 
 ### 💻 Programming Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
