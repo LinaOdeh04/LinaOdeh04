@@ -24,7 +24,6 @@
 - 🗄️ Working with SQL Server & database design  
 - 🌐 Familiar with HTML & CSS for simple frontend  
 - 🧪 Interested in Software Testing (QA)  
-- ⚔️ Inspired by *Attack on Titan* — fighting bugs like Titans
 
 ---
 
