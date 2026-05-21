@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Lina </h1>
 
 <p align="center">
-  Backend Developer in training | Computer Engineering Student | Future problem solver 🧠
+  Backend Developer in training | Computer Engineering Student 
 </p>
 
 ---
@@ -14,8 +14,8 @@
     <img src="https://skillicons.dev/icons?i=java,html,css,cs,idea,visualstudio,vscode,mssql" />
   </a>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHJwZWNrMjFoc2lldnNwN3BsaGF0dTVkdjB2MW4yNTFlMmw1N2hraSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/z24q9PQNlw19u/giphy.gif" width="25"/>
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHJwZWNrMjFoc2lldnNwN3BsaGF0dTVkdjB2MW4yNTFlMmw1N2hraSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/z24q9PQNlw19u/giphy.gif" width="35"/>
   <b> About Me </b>
 </p>
 
@@ -57,8 +57,6 @@
 
 
 
-<p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjc0eDAyMTE1cjNoajFjdHY2ZzMzMnJsYmoxYm4zcnJnODNndjRkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N3yLGQ1oMYfGU/giphy.gif" width="250"/>
-</p>
+
 
 
