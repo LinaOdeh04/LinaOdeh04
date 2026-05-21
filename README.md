@@ -7,12 +7,12 @@
 ---
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXgyanFybjIzNW5rYmJ1MXczeTZncTZjbHEwNm9tMGdnNDk2ZjR3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9KCPkAcRqU9j2/giphy.gif" width="250"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXgyanFybjIzNW5rYmJ1MXczeTZncTZjbHEwNm9tMGdnNDk2ZjR3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9KCPkAcRqU9j2/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,python,git,vscode,figma,mssql" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,vscode,figma,mssql" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHJwZWNrMjFoc2lldnNwN3BsaGF0dTVkdjB2MW4yNTFlMmw1N2hraSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/z24q9PQNlw19u/giphy.gif" width="35"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHJwZWNrMjFoc2lldnNwN3BsaGF0dTVkdjB2MW4yNTFlMmw1N2hraSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/z24q9PQNlw19u/giphy.gif" width="50"/>
   <b> About Me </b>
 </p>
 
