@@ -1,4 +1,4 @@
-<h1 align="center">⚔️ Hi, I'm Lina ⚔️</h1>
+<h1 align="center"> Hi, I'm Lina </h1>
 
 <p align="center">
   Backend Developer in training | Computer Engineering Student | Future problem solver 🧠
@@ -7,9 +7,27 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
+  <img src="[https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXgyanFybjIzNW5rYmJ1MXczeTZncTZjbHEwNm9tMGdnNDk2ZjR3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9KCPkAcRqU9j2/giphy.gif)" width="250"/>
 </p>
+<p align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+
+</p>
 ---
 
 ## 🧭 About Me
