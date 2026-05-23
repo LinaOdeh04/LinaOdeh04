@@ -20,7 +20,10 @@
 
 <td width="60%">
 
-## 👩‍💻 About Me
+<p align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHJwZWNrMjFoc2lldnNwN3BsaGF0dTVkdjB2MW4yNTFlMmw1N2hraSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/z24q9PQNlw19u/giphy.gif" width="50"/>
+  <b><strong>About Me</strong></b>
+</p>
 
 - Computer Engineering student at PTUK 
 - Learning Backend Development using ASP.NET Core  
@@ -30,8 +33,10 @@
 
 ---
 
-## ⚙️ Frameworks & Tools
-
+<p align="left">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="45"/>
+  <b> <strong>Frameworks & Tools</strong> </b>
+</p>
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
