@@ -34,7 +34,7 @@
 ---
 
 <p align="left">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpidjJmYndiNmFkOWF2anZpcDFteGE4Zm9oNzZ4b3E0dDA0bGZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jWA8SVpMd9ETce9pRj/giphy.gif" width="35"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXpidjJmYndiNmFkOWF2anZpcDFteGE4Zm9oNzZ4b3E0dDA0bGZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jWA8SVpMd9ETce9pRj/giphy.gif" width="32" style="vertical-align: middle; margin-bottom: -6px;"/>
   <b><strong>Frameworks & Tools</strong></b>
 </p>
 
